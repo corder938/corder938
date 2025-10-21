@@ -5,14 +5,13 @@ Eager to grow as a Java developer and gain experience working in a team.
    📫 How to reach me: <a href='mailto:kirilllenskii1@gmail.com'>kirilllenskii1@gmail.com</a>
 </p>
 ### Key skills
-
 ## 🛠 Technical Stack
-Programming Languages: Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
-Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading
-Tools: IntelliJ IDEA, Git, GitLab, Promt Enginiring
-Algorithms & Data Structures: Basic knowledge and practical implementation
-Operating Systems: Windows, Linux
-English: Intermediate
+* Programming Languages: Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
+* Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading
+* Tools: IntelliJ IDEA, Git, GitLab, Promt Enginiring
+* Algorithms & Data Structures: Basic knowledge and practical implementation
+* Operating Systems: Windows, Linux
+* English: Intermediate
 
 ## 🧩 PROJECTS
 # Console Application “Port Management”
@@ -24,20 +23,20 @@ English: Intermediate
 * Learned OOP principles through small personal projects
 
 ## 📚 LEARNING
-Self-study in programming:
-Books: Head First Java, Java: The Complete Reference by Herbert Schildt
-YouTube channels: Bro Code, Telusko, Java Brains
-Free courses: Stepik, Coursera
-Practice: Pet projects and publishing code on GitLab [https://gitlab.com/kirilllenskii1]
+# Self-study in programming:
+* Books: Head First Java, Java: The Complete Reference by Herbert Schildt
+* YouTube channels: Bro Code, Telusko, Java Brains
+* Free courses: Stepik, Coursera
+* Practice: Pet projects and publishing code on GitLab [https://gitlab.com/kirilllenskii1]
 
 ## 💬 WORK EXPIRIENCE
-Staff Officer — Ministry of Defense of Belarus
-Automated and optimized data processing by developing and implementing advanced Excel formulas and templates to handle both urgent and routine tasks
-Analyzed and processed large volumes of data; prepared reports in Excel and Access, and presentations in PowerPoint
-Created and maintained documentation in Word; standardized workflow processes
-Collaborated within a team, delegated tasks, and ensured project completion under strict deadlines
-Managed priorities while handling both urgent and routine tasks simultaneously
-Developed skills in structuring information and working with large datasets, applicable to data handling and software development
+# Staff Officer — Ministry of Defense of Belarus
+* Automated and optimized data processing by developing and implementing advanced Excel formulas and templates to handle both urgent and routine tasks
+* Analyzed and processed large volumes of data; prepared reports in Excel and Access, and presentations in PowerPoint
+* Created and maintained documentation in Word; standardized workflow processes
+* Collaborated within a team, delegated tasks, and ensured project completion under strict deadlines
+* Managed priorities while handling both urgent and routine tasks simultaneously
+* Developed skills in structuring information and working with large datasets, applicable to data handling and software development
 
 ## 🎓 EDUCATION
 Specialization: Engineer-Specialist in Radio-Electronic Systems Management
