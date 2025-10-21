@@ -1,6 +1,14 @@
 # Hi, I'm Kirill 👋
 Self-taught in Java, regularly practicing coding tasks and personal projects.
 Eager to grow as a Java developer and gain experience working in a team.
+
+<p align='center'>
+   <a href="https://gitlab.com/kirilllenskii1/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:kirilllenskii1@gmail.com'>kirilllenskii1@gmail.com</a>
 </p>
