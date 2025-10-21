@@ -4,7 +4,7 @@ Eager to grow as a Java developer and gain experience working in a team.
 
 <p align='center'>
    <a href="https://gitlab.com/kirilllenskii1/">
-       <img src="https://img.shields.io/badge/-gmail-2CA5E0?style=for-the-badge&logo=gitlab&style=plastic"/>
+       <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gitlab&style=plastic"/>
    </a>
    <a href="https://t.me/@corder938/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
