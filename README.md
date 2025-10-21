@@ -28,7 +28,7 @@ Eager to grow as a Java developer and gain experience working in a team.
 ### Self-study in programming:
 * Books: Head First Java, Java: The Complete Reference by Herbert Schildt
 * YouTube channels: Bro Code, Telusko, Java Brains
-* Free courses: Stepik, Coursera
+* Free courses: Stepik, Coursera, Learn.epam
 * Practice: Pet projects and publishing code on GitLab [https://gitlab.com/kirilllenskii1]
 
 ## 💬 WORK EXPIRIENCE
