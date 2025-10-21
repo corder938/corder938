@@ -4,7 +4,9 @@ Eager to grow as a Java developer and gain experience working in a team.
 <p align='center'>
    📫 How to reach me: <a href='mailto:kirilllenskii1@gmail.com'>kirilllenskii1@gmail.com</a>
 </p>
+
 # Key skills
+
 ## 🛠 Technical Stack
 * Programming Languages: Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
 * Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading
