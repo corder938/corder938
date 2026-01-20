@@ -1,6 +1,6 @@
 # Hi, I'm Kirill 👋
-Self-taught in Java, regularly practicing coding tasks and personal projects.
-Eager to grow as a Java developer and gain experience working in a team.
+Self-taught in Kotlin and Java, regularly practicing coding tasks and personal projects.
+Eager to grow as a Android developer and gain experience working in a team.
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:kirilllenskii1@gmail.com'>kirilllenskii1@gmail.com</a>
@@ -9,28 +9,20 @@ Eager to grow as a Java developer and gain experience working in a team.
 # Key skills
 
 ## 🛠 Technical Stack
-* Programming Languages: Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
-* Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading
+* Programming Languages: Korlin, Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
+* Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading, Coroutines, Flow
+MVVM, Clean Architecture
+Room, Retrofit
+Hilt
+Navigation Component
+Material Design
 * Tools: IntelliJ IDEA, Git, GitLab, Promt Enginiring
 * Algorithms & Data Structures: Basic knowledge and practical implementation
 * Operating Systems: Windows, Linux
 * English: Intermediate
 
 ## 🧩 PROJECTS
-### Console Application “Port Management”
-* Developed a multithreaded Java application using Collections and Threads
-* Implemented synchronized access to shared resources (ReentrantLock, Condition)
-* Focused on understanding threads and concurrency control
-### Java Core Practice Programs
-* Solved algorithmic tasks, worked with collections and files
-* Learned OOP principles through small personal projects
-
-## 📚 LEARNING
-### Self-study in programming:
-* Books: Head First Java, Java: The Complete Reference by Herbert Schildt
-* YouTube channels: Bro Code, Telusko, Java Brains
-* Free courses: Stepik, Coursera, Learn.epam
-* Practice: Pet projects and publishing code on GitLab [https://gitlab.com/kirilllenskii1]
+### Calendar App – pet project, Android, Kotlin, MVVM
 
 ## 💬 WORK EXPIRIENCE
 ### Staff Officer — Ministry of Defense of Belarus
