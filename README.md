@@ -1,54 +1,80 @@
-# Hi, I'm Kirill 👋
-Self-taught in Kotlin and Java, regularly practicing coding tasks and personal projects.
-Eager to grow as a Android developer and gain experience working in a team.
+# Hey, I'm Kiryl 👋
 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:kirilllenskii1@gmail.com'>kirilllenskii1@gmail.com</a>
-</p>
+Android developer with 1.5+ years in fintech. I build native Android apps — currently working on a digital banking platform. Previously at ila Bank (Bahrain), where I helped migrate a production app from a legacy stack to native Android.
 
-# Key skills
+📫 [kiryllenski@gmail.com](mailto:kiryllenski@gmail.com) · [LinkedIn](https://linkedin.com/in/kiryl-lenski) · Based in Batumi, Georgia
 
-## 🛠 Technical Stack
-* Programming Languages: Korlin, Java (Core), MySQL, PostgreSQL, Spring Framework, Spring Boot, Spring JDBC
-* Concepts: OOP, Collections, Exceptions, Streams, File I/O, Multithreading, Coroutines, Flow
-MVVM, Clean Architecture
-Room, Retrofit
-Hilt
-Navigation Component
-Material Design
-* Tools: IntelliJ IDEA, Git, GitLab, Promt Enginiring
-* Algorithms & Data Structures: Basic knowledge and practical implementation
-* Operating Systems: Windows, Linux
-* English: Intermediate
+---
 
-## 🧩 PROJECTS
-### Calendar App – pet project, Android, Kotlin, MVVM
+## 🛠 Tech Stack
 
-## 💬 WORK EXPIRIENCE
-### Staff Officer — Ministry of Defense of Belarus
-* Automated and optimized data processing by developing and implementing advanced Excel formulas and templates to handle both urgent and routine tasks
-* Analyzed and processed large volumes of data; prepared reports in Excel and Access, and presentations in PowerPoint
-* Created and maintained documentation in Word; standardized workflow processes
-* Collaborated within a team, delegated tasks, and ensured project completion under strict deadlines
-* Managed priorities while handling both urgent and routine tasks simultaneously
-* Developed skills in structuring information and working with large datasets, applicable to data handling and software development
+**Languages:** Kotlin · Java
 
-## 🎓 EDUCATION
-* Specialization: Engineer-Specialist in Radio-Electronic Systems Management
-* Degree: Bachelor's
-* Years of Study: 2015 — 2020
+**UI:** Jetpack Compose · XML · Custom Views
 
-<!--
-**corder938/corder938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architecture:** MVVM · MVI · Clean Architecture · Multi-module
 
-Here are some ideas to get you started:
+**Async:** Coroutines · Kotlin Flow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**DI:** Hilt · Dagger2
+
+**Networking:** Retrofit · gRPC · OkHttp · GSON · Moshi
+
+**Data:** Room · DataStore · EncryptedSharedPreferences
+
+**Testing:** JUnit · Mockk · Espresso
+
+**CI/CD & Tools:** Jenkins · Firebase App Distribution · Git · GitFlow · Jira · Detekt
+
+**AI Tools:** GitHub Copilot · Claude · ChatGPT — code generation, review, test writing
+
+---
+
+## 💼 Experience
+
+**Android Developer** @ FinTech — Digital Banking Platform *(11.2025 – present)*
+Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt · Retrofit · gRPC · Room · DataStore · JUnit · Detekt
+
+- Building features for a digital banking app: accounts, transfers, currency exchange, deposits, credit cards
+- Multi-module architecture with Hilt; networking with Retrofit + gRPC; persistence with Room + EncryptedSharedPreferences
+- Unit tests with JUnit & Mockk; code quality enforced with Detekt
+
+**Android Developer** @ FinTech — Digital Banking Platform *(10.2024 – 10.2025)*
+Kotlin · Jetpack Compose · MVVM · Modular Architecture · Hilt · Retrofit · Room · Jenkins · Firebase
+
+- Participated in migration from Backbase legacy architecture to native Android stack
+- Built screens from scratch in Jetpack Compose; delivered feature modules in multi-module architecture
+- Resolved UI performance issues during Compose migration
+- Onboarded new team members; collaborated with iOS, backend, QA, and product via Jira & Confluence
+
+**QA Engineer (Contract)** @ E-commerce Platform *(02.2024 – 08.2024)*
+Jira · TestRail · Postman · Swagger · Grafana · Charles Proxy · SQL
+
+- Functional, regression, and smoke testing of web & mobile apps (iOS/Android)
+- Identified critical defects in discount logic before release (30+ promo codes, high-load campaign)
+- Reduced regression cycle by ~20% through test documentation optimization
+
+---
+
+## 🧩 Projects
+
+### [MyCalendar | Shop Planner](https://github.com/corder938/calendar-and-shop-planner)
+*Android · Kotlin · Jetpack Compose · MVVM · Kotlin Flow · Room · Hilt*
+
+A time-management app with a reactive shopping list.
+- Custom 42-day calendar grid built from scratch in Jetpack Compose
+- Real-time task filtering with Kotlin Flow (`combine`, `map` operators)
+- State hoisting + ViewModel for clean UI/logic separation
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Radio-Electronic Systems Engineering**
+Military Academy of the Republic of Belarus · 2015 – 2020
+
+---
+
+## 🌍 Languages
+
+English — B1 · Russian — Native
